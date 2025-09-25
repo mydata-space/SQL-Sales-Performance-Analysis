@@ -1,9 +1,9 @@
-# SQL-Sales-Performance-Analysis
+# Sales Performance Analysis 
 
 ## Project Overview
 
-This project involves a comprehensive analysis of a company's sales data from 2010 to 2014. The dataset includes approximately 60,000 sales records, 18,500 customers, and 130 products. 
-The goal was to uncover key trends, evaluate performance, and identify critical business insights to inform strategic decision-making.
+My main goal for this project was to uncover key trends, evaluate performance, and find actionable insights to guide busniss strategic decision.
+The dataset includes approximately 60,000 sales records, 18,500 customers, and 130 products, from from 2010 to 2014. 
 
 ### Data Loading Procedure: Direct CSV file parsing into SQL tables. 
 
